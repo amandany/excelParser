@@ -8,8 +8,8 @@ namespace excelParser
 {
     class Item
     {
-        public double Prop1;
-        public string Prop2;
-        public string Prop3;
+        public double PRICE;
+        public string NAME;
+        public string BRAND;
     }
 }
